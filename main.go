@@ -7,7 +7,7 @@ import (
 )
 
 const (
-	MIN_TERM_WIDTH  = 33
+	MIN_TERM_WIDTH  = 333
 	MIN_TERM_HEIGHT = 15
 )
 
